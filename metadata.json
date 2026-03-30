@@ -1,0 +1,8 @@
+{
+  "name": "needs",
+  "description": "A supportive community application for finding and donating wheelchairs, offering services for people with special needs, and facilitating family support.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
